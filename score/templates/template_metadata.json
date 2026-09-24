@@ -1,0 +1,45 @@
+{
+    "description": "Clean netting reference templates library for indirect biofouling quantification",
+    "templates": {
+        "c_01.png": {
+            "base_proportion": 0.582251,
+            "safety_margin": 0.38,
+            "threshold": 0.962251
+        },
+        "c_02.png": {
+            "base_proportion": 0.417854,
+            "safety_margin": 0.32,
+            "threshold": 0.737854
+        },
+        "c_03.png": {
+            "base_proportion": 0.280816,
+            "safety_margin": 0.29,
+            "threshold": 0.570816
+        },
+        "c_04.png": {
+            "base_proportion": 0.304476,
+            "safety_margin": 0.26,
+            "threshold": 0.564476
+        },
+        "c_05.png": {
+            "base_proportion": 0.318232,
+            "safety_margin": 0.22,
+            "threshold": 0.538232
+        },
+        "c_06.png": {
+            "base_proportion": 0.323467,
+            "safety_margin": 0.20,
+            "threshold": 0.523467
+        },
+        "c_07.png": {
+            "base_proportion": 0.272358,
+            "safety_margin": 0.18,
+            "threshold": 0.452358
+        },
+        "c_08.png": {
+            "base_proportion": 0.292278,
+            "safety_margin": 0.14,
+            "threshold": 0.432278
+        }
+    }
+}

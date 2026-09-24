@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+.ipynb_checkpoints
+.vscode/
+.idea/
+*.DS_Store
+outputs/*.png
+!outputs/.gitkeep
